@@ -1,5 +1,5 @@
 # Rusty-Chains
-A HS2/AI-Shoujo Studio Item with dynamic bones.
+A mod of HS2/AI-Shoujo Studio Items with dynamic bones.
 
 Download the .zipmod file on [Release](https://github.com/Blatke/Rusty-Chains/releases) page.
 
